@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tuan_1</string>
+    <string name="to">To</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="send">Send</string>
+    <string name="reminder">reminder</string>
+    <string name="done">done</string>
+</resources>
